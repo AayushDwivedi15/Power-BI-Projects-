@@ -7,7 +7,8 @@ An interactive business intelligence dashboard analyzing quarterly financial per
 
 ## 📊 Dashboard Preview
 
-![Quarterly Financial Report Dashboard](assets/dashboard_preview.png)
+<img width="1422" height="797" alt="dashboard_preview" src="https://github.com/user-attachments/assets/b966f587-f215-4ea0-8a65-d9e10d389c7d" />
+
 
 ---
 
