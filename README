@@ -1,1 +1,42 @@
+PowerBI-Projects
+📊 Power BI Data Analytics Projects
+Welcome to my Power BI Projects directory! This folder contains a collection of data analysis, data modeling, DAX engineering, and data visualization projects executed to build an ATS-optimized, recruiter-ready data analytics portfolio.
 
+📁 Featured Projects
+1. Apex Innovation Operational and Financial Reports
+Description: A comprehensive retail analytics dashboard designed to monitor and evaluate operational and financial performance.
+
+Key Techniques: Star Schema Data Modeling, Advanced DAX, Troubleshooting.
+
+Objective: To architect a robust data model, resolve complex business logic errors, filter out "blank" values, and fix double-counting anomalies in revenue metrics through precise line-item calculations.
+
+2. Adventure_Works_Financial_Reports
+Description: A financial reporting suite built using the industry-standard Adventure Works enterprise dataset.
+
+Key Techniques: DAX Formulation, Time Intelligence, Enterprise Configuration.
+
+Objective: To calculate profitability, profit margins, and organizational costs over various periods, demonstrating readiness for complex, real-world corporate data environments.
+
+3. Financial_Dashboard_Chocolate_Ltd.
+Description: A combined sales and financial performance dashboard tailored for corporate tracking within the retail and FMCG sectors.
+
+Key Techniques: Power Query ETL, Data Integration, Visual Storytelling.
+
+Objective: To build robust pipelines to clean, shape, and integrate raw sales datasets, and to track product performance, regional distribution, and revenue trends.
+
+4. Quarterly_Financial_Reports_of_XYZ_Ltd.
+Description: A structured reporting tool focused on automating routine, quarter-over-quarter financial analytics.
+
+🛠️ Skills & Tools Demonstrated
+Core BI Tools: Power BI, DAX, Power Query.
+
+Data Technologies: SQL, Microsoft Excel.
+
+Data Architecture: Enterprise-level data architecture, Star Schemas (Dimensional Modeling), ETL processes, and professional-grade visualization.
+
+Domain Knowledge: Direct application of business and commerce studies (corporate finance, cost accounting, and economics) into analytical workflows.
+
+📬 Contact
+Author: Aayush Dwivedi
+
+GitHub Username: AayushDwivedi15
