@@ -15,7 +15,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ## 1. Apex Innovations Retail Dashboard
 
-![Apex Innovations Dashboard Preview](link_to_your_image.png)
+[Apex Innovations Dashboard Preview]<img width="960" height="538" alt="Executive_financial_overview_static_image" src="https://github.com/user-attachments/assets/19fc865c-3e89-4156-9e89-3f769f61d59d" />
+
 
 *   **The Business Problem:** Regional managers lacked visibility into store-level profitability and employee performance across Egypt. They needed a centralized way to track how regions like Greater Cairo compared to others, and how return rates were impacting the bottom line.
 *   **The Approach & Tech:** Engineered a comprehensive Power BI solution tracking $45.35M in gross revenue. Developed dynamic DAX measures to calculate Gross Profit % (maintaining a 21.4% average) and built an interactive Store Data Table to isolate performance by specific locations like Lotus Cairo Festival City.
@@ -25,8 +26,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 ---
 
 ## 2. Chocolate Ltd. Financial Dashboard
+[Chocolate Ltd Dashboard Preview]<img width="1203" height="678" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/a3982956-b68b-40cd-b05b-8671d425aa5c" />
 
-![Chocolate Ltd Dashboard Preview](link_to_your_image.png)
 
 *   **The Business Problem:** The executive team at Chocolate Ltd. needed to evaluate product-level profitability and seasonal sales trends to optimize their product mix and maximize margins across 4 million boxes sold.
 *   **The Approach & Tech:** Built an interactive financial dashboard analyzing $44.69M in total revenue. Utilized DAX to calculate overall costs ($24.45M) and a healthy blended Profit Margin of 45.29%, while providing dynamic slicers for stakeholders to filter by Year, Region, and Category.
@@ -37,7 +38,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ## 3. XYZ Ltd. Quarterly Financial Report
 
-![XYZ Ltd Dashboard Preview](link_to_your_image.png)
+[XYZ Ltd Dashboard Preview]<img width="1422" height="797" alt="dashboard_preview" src="https://github.com/user-attachments/assets/1876e54a-6608-4e1f-9ce0-9bbbe0f2926c" />
+
 
 *   **The Business Problem:** XYZ Ltd. needed a comprehensive quarterly overview of its multi-category retail performance (Clothing, Electronics, Furniture) to identify which specific subcategories and regions were driving their 8.44% profit margin—and which were dragging it down.
 *   **The Approach & Tech:** Developed an interactive financial dashboard analyzing 438K in total revenue across 6K units sold. Built hierarchical matrix visuals for deep-dive category analysis, tracked state-by-state profitability, and visualized payment modality shares.
@@ -48,7 +50,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ## 4. Adventure Works Logistics & Sales Summary
 
-![Adventure Works Dashboard Preview](link_to_your_image.png)
+[Adventure Works Dashboard Preview]<img width="1282" height="722" alt="Adventure_works_sales_Summary" src="https://github.com/user-attachments/assets/6333e663-7d77-42ef-88c2-0b2b0518dbc4" />
+
 
 *   **The Business Problem:** Adventure Works needed to optimize its global supply chain and inventory distribution. Stakeholders required a consolidated view to analyze the relationship between product weight (which drives shipping costs), stock levels, and product value across different global regions.
 *   **The Approach & Tech:** Developed an operational summary dashboard tracking $94.4K in product value and over 1,000 units of stock. Utilized Power BI's smart narrative features to automatically generate insights and built comparative bar charts to segment metrics across three major regions and seven distinct bike categories.
