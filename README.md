@@ -1,5 +1,5 @@
 # Data Analytics Portfolio 📊
-**By Ayush Dwivedi** | [LinkedIn URL] | [Email Address]
+**By Aayush Dwivedi** |  Dwivediaayush66@gmail.com
 
 Welcome to my Power BI portfolio. This repository showcases my ability to transform complex datasets into actionable business intelligence using Power BI, advanced DAX, and star schema data modeling. The projects below focus on extracting real business value—from optimizing retail profit margins to identifying supply chain inefficiencies.
 
