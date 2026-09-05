@@ -15,7 +15,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ## 1. Apex Innovations Retail Dashboard
 
-[Apex Innovations Dashboard Preview]<img width="960" height="538" alt="Executive_financial_overview_static_image" src="https://github.com/user-attachments/assets/19fc865c-3e89-4156-9e89-3f769f61d59d" />
+[Apex Innovations Dashboard Preview]<img width="1377" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/02d187af-5471-42b8-9cf2-fdd33b261c17" />
+
 
 
 *   **The Business Problem:** Regional managers lacked visibility into store-level profitability and employee performance across Egypt. They needed a centralized way to track how regions like Greater Cairo compared to others, and how return rates were impacting the bottom line.
