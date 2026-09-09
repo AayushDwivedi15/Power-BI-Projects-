@@ -10,6 +10,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 2. [Chocolate Ltd. Financial Dashboard](#2-chocolate-ltd-financial-dashboard)
 3. [XYZ Ltd. Quarterly Financial Report](#3-xyz-ltd-quarterly-financial-report)
 4. [Adventure Works Logistics & Sales Summary](#4-adventure-works-logistics--sales-summary)
+5. [Snitch Sales Dashboard].(#5-Snitch-Sales-Dashboard).
 
 ---
 
