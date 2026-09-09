@@ -18,7 +18,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 [Apex Innovations Dashboard Preview]<img width="1377" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/02d187af-5471-42b8-9cf2-fdd33b261c17" />
 
 
-
+* **Core Focus:** Complex Star Schema Modeling & Advanced DAX
 *   **The Business Problem:** Regional managers lacked visibility into store-level profitability and employee performance across Egypt. They needed a centralized way to track how regions like Greater Cairo compared to others, and how return rates were impacting the bottom line.
 *   **The Approach & Tech:** Engineered a comprehensive Power BI solution tracking $45.35M in gross revenue. Developed dynamic DAX measures to calculate Gross Profit % (maintaining a 21.4% average) and built an interactive Store Data Table to isolate performance by specific locations like Lotus Cairo Festival City.
 *   **Key Insights:** The data revealed that Greater Cairo was the dominant revenue driver ($16.7M). However, the return rate across the network was sitting at 8.8% ($4.01M in returned merchandise), which significantly impacted net profitability. 
@@ -29,7 +29,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 ## 2. Chocolate Ltd. Financial Dashboard
 [Chocolate Ltd Dashboard Preview]<img width="1203" height="678" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/a3982956-b68b-40cd-b05b-8671d425aa5c" />
 
-
+* **Core Focus:** Cross-Entity Financial Consolidation & Seasonal Trending
 *   **The Business Problem:** The executive team at Chocolate Ltd. needed to evaluate product-level profitability and seasonal sales trends to optimize their product mix and maximize margins across 4 million boxes sold.
 *   **The Approach & Tech:** Built an interactive financial dashboard analyzing $44.69M in total revenue. Utilized DAX to calculate overall costs ($24.45M) and a healthy blended Profit Margin of 45.29%, while providing dynamic slicers for stakeholders to filter by Year, Region, and Category.
 *   **Key Insights:** The product analysis uncovered a critical hidden loss: while "85% Dark Bars" was a top 5 revenue generator ($3.15M), it was actually operating at a massive loss (-$1.17M in gross profit). Conversely, "Peanut Butter Cubes" proved to be the most efficient product, driving $3.75M in revenue with an incredible $3.25M in profit. Furthermore, the trend analysis showed major sales spikes in February and July.
@@ -41,7 +41,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 [XYZ Ltd Dashboard Preview]<img width="1422" height="797" alt="dashboard_preview" src="https://github.com/user-attachments/assets/1876e54a-6608-4e1f-9ce0-9bbbe0f2926c" />
 
-
+* **Core Focus:** Deep-Dive Profitability Analytics & Matrix Drill-downs
 *   **The Business Problem:** XYZ Ltd. needed a comprehensive quarterly overview of its multi-category retail performance (Clothing, Electronics, Furniture) to identify which specific subcategories and regions were driving their 8.44% profit margin—and which were dragging it down.
 *   **The Approach & Tech:** Developed an interactive financial dashboard analyzing 438K in total revenue across 6K units sold. Built hierarchical matrix visuals for deep-dive category analysis, tracked state-by-state profitability, and visualized payment modality shares.
 *   **Key Insights:** The matrix drill-down exposed several "margin bleeders." While Electronics and Furniture were profitable overall, specific subcategories like Electronic Games (-1.64% margin), Furnishings (-5.98%), and several Women's Clothing items (Kurtis at -11.93%, Skirts at -16.19%) were operating at a net loss. Additionally, the payment analysis revealed a heavy reliance on Cash on Delivery (COD) at 35.45%, which traditionally carries higher logistical costs and return risks.
@@ -58,6 +58,20 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 *   **The Approach & Tech:** Developed an operational summary dashboard tracking $94.4K in product value and over 1,000 units of stock. Utilized Power BI's smart narrative features to automatically generate insights and built comparative bar charts to segment metrics across three major regions and seven distinct bike categories.
 *   **Key Insights:** The dashboard revealed a critical inventory efficiency imbalance. While Europe dominated all metrics, Asia was significantly outperforming North America in product value ($32K vs. $23K) despite holding *less* physical stock (300 units vs. 332 units in NA). Furthermore, the category breakdown showed that Mountain Bikes heavily dominated the total shipped weight (467 out of 1,258 total), representing a disproportionate logistics cost.
 *   **The Recommendation:** Recommended an immediate inventory rebalancing strategy to reduce stagnant stock in North America and reallocate capital to the higher-yield Asian market. Additionally, advised the supply chain team to negotiate specialized, volume-based freight rates specifically for Mountain and Touring bikes to reduce the heavy logistical cost burden.
+
+## 5. Snitch Sales Dashboard
+
+[Snitch Sales Dashboard Preview]<img width="1372" height="788" alt="image" src="https://github.com/user-attachments/assets/123115ba-9478-4221-9ef6-ae901fea5740" />
+
+* **Core Focus:** End-to-End ETL, Excel Data Cleaning, & Data Quality Auditing
+* **The Business Problem:** Snitch required a comprehensive view of their multi-year sales performance across major Indian retail hubs. Stakeholders needed to understand which product categories drove the highest margins and how revenue split across B2B and B2C channels.
+
+* **The Approach & Tech:** Conducted initial data extraction and rigorous data cleaning in Microsoft Excel to prepare the raw datasets. Imported the clean data into Power BI to build a centralized dashboard tracking 4.37M in revenue across 3K units. Engineered interactive slicers for dynamic filtering by City, Category, and Segment.
+
+* **Key Insights:** The regional analysis highlighted Hyderabad (0.86M) and Bangalore (0.84M) as the dominant revenue hubs. However, the matrix visual revealed a margin imbalance: while "Accessories" drove the highest total sales amount (852K), "Dresses" yielded the most efficient profit margin (14.07%). Additionally, the segment analysis exposed a critical data capture issue at the point of sale, with a massive 32.58% of revenue (1.42M) dropping into a "No_Segment" bucket.
+
+* **The Recommendation:** Advised the marketing team to allocate heavier ad spend toward "Dresses" in top-performing cities like Hyderabad to capitalize on the 14.07% peak margin. Operationally, recommended an immediate audit of the CRM and point-of-sale data entry processes to fix the blind spot causing 32% of transactions to lose their B2B/B2C segment attribution.
+
 
 ---
 
