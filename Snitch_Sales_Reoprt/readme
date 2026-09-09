@@ -1,1 +1,20 @@
+# Snitch Sales Dashboard 📊
 
+**Core Focus:** End-to-End ETL, Excel Data Cleaning, & Data Quality Auditing
+
+## 📌 The Business Problem
+Snitch required a comprehensive view of their multi-year sales performance across major Indian retail hubs. Stakeholders needed to understand which product categories drove the highest margins and how revenue split across B2B and B2C channels.
+
+## 🛠️ The Approach & Technical Stack
+* **ETL & Data Cleaning:** Conducted initial data extraction and rigorous data cleaning in Microsoft Excel to prepare the raw datasets, standardizing formats before import.
+* **BI Development:** Imported the clean data into Power BI to build a centralized dashboard tracking 4.37M in revenue across 3K units.
+* **Interactivity:** Engineered interactive slicers for dynamic filtering by City, Category, and Segment to enable self-service exploration for stakeholders.
+
+## 🔍 Key Insights
+* **Regional Dominance:** The regional analysis highlighted Hyderabad (0.86M) and Bangalore (0.84M) as the top revenue-generating hubs.
+* **Margin Imbalance:** While the "Accessories" category drove the highest total sales volume (852K), "Dresses" yielded the most efficient profit margin (14.07%).
+* **Data Quality Flag:** A critical data capture issue was exposed at the point of sale, with a massive 32.58% of revenue (1.42M) dropping into a "No_Segment" bucket, masking the true B2B vs. B2C split.
+
+## 💡 Recommendations
+* **Strategic Marketing:** Allocate heavier ad spend toward "Dresses" in top-performing cities like Hyderabad to capitalize on the 14.07% peak margin.
+* **Operational Audit:** Conduct an immediate audit of the CRM and point-of-sale data entry processes to fix the data capture blind spot causing 32% of transactions to lose their segment attribution.
