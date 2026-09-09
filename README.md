@@ -61,7 +61,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ## 5. Snitch Sales Dashboard
 
-[Snitch Sales Dashboard Preview]<img width="1372" height="788" alt="image" src="https://github.com/user-attachments/assets/123115ba-9478-4221-9ef6-ae901fea5740" />
+[Snitch Sales Dashboard Preview]<img width="1375" height="775" alt="image" src="https://github.com/user-attachments/assets/c56fcf9d-692f-4a2c-b9dc-eb61956ae9a6" />
 
 * **Core Focus:** End-to-End ETL, Excel Data Cleaning, & Data Quality Auditing
 * **The Business Problem:** Snitch required a comprehensive view of their multi-year sales performance across major Indian retail hubs. Stakeholders needed to understand which product categories drove the highest margins and how revenue split across B2B and B2C channels.
