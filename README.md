@@ -11,6 +11,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 3. [XYZ Ltd. Quarterly Financial Report](#3-xyz-ltd-quarterly-financial-report)
 4. [Adventure Works Logistics & Sales Summary](#4-adventure-works-logistics--sales-summary)
 5. [Snitch Sales Dashboard](#5-Snitch-Sales-Dashboard).
+6. [Comprehensive Retail Analytics Dashboard](#6-Comprehensive-Retail-Analytics-Dashboard)
 
 ---
 
@@ -60,6 +61,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 *   **Key Insights:** The dashboard revealed a critical inventory efficiency imbalance. While Europe dominated all metrics, Asia was significantly outperforming North America in product value ($32K vs. $23K) despite holding *less* physical stock (300 units vs. 332 units in NA). Furthermore, the category breakdown showed that Mountain Bikes heavily dominated the total shipped weight (467 out of 1,258 total), representing a disproportionate logistics cost.
 *   **The Recommendation:** Recommended an immediate inventory rebalancing strategy to reduce stagnant stock in North America and reallocate capital to the higher-yield Asian market. Additionally, advised the supply chain team to negotiate specialized, volume-based freight rates specifically for Mountain and Touring bikes to reduce the heavy logistical cost burden.
 
+---
+
 ## 5. Snitch Sales Dashboard
 
 [Snitch Sales Dashboard Preview]<img width="1375" height="775" alt="image" src="https://github.com/user-attachments/assets/c56fcf9d-692f-4a2c-b9dc-eb61956ae9a6" />
@@ -73,6 +76,20 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 * **The Recommendation:** Advised the marketing team to allocate heavier ad spend toward "Dresses" in top-performing cities like Hyderabad to capitalize on the 14.07% peak margin. Operationally, recommended an immediate audit of the CRM and point-of-sale data entry processes to fix the blind spot causing 32% of transactions to lose their B2B/B2C segment attribution.
 
+---
+
+## 6. Comprehensive Retail Analytics Dashboard
+
+[Comprehensive Retail Analytics Dashboard]<img width="1372" height="772" alt="Screenshot 2026-09-27 175512" src="https://github.com/user-attachments/assets/bb10104c-b778-4780-9e07-d303d675950b" />
+
+
+* **Core Focus:** End-to-End ETL, Complex Data Modeling, & Advanced DAX.The Business Problem: Stakeholders lacked visibility into comprehensive sales performance and product profitability. They needed a centralized 6-page report to track $8.25M in total revenue and understand how merchandise return rates (10.05%) were impacting the bottom line.
+  
+* **The Approach & Tech:** Engineered a comprehensive Power BI solution tracking $8.25M in gross revenue and 38K in sales quantity. Developed dynamic DAX measures to calculate.Profit % (maintaining a 20.0% average) and built an interactive data model to isolate performance by store, product, and customer demographic.
+
+* **Key Insights:** The data revealed that the "Electronics" category was the dominant revenue driver ($4.93M). However, overall return rates were sitting at 10.05% ($829.17K), driven primarily by "Late Delivery" (18.56%) and "Changed Mind" (17.52%), which significantly impacted net profitability.
+
+* **The Recommendation:** Advised regional managers in top-performing areas like New York Central to implement tighter supply chain controls to reduce the "Late Delivery" returns, thereby protecting the 20.0% overall profit margin.
 
 ---
 
