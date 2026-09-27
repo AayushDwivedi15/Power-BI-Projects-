@@ -78,7 +78,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ---
 
-## 6. Comprehensive Retail Analytics Dashboard
+## 6. Comprehensive Retail Analytics Dashboard (6 Page Report)
 
 [Comprehensive Retail Analytics Dashboard]<img width="1372" height="772" alt="Screenshot 2026-09-27 175512" src="https://github.com/user-attachments/assets/bb10104c-b778-4780-9e07-d303d675950b" />
 
