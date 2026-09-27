@@ -11,7 +11,7 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 3. [XYZ Ltd. Quarterly Financial Report](#3-xyz-ltd-quarterly-financial-report)
 4. [Adventure Works Logistics & Sales Summary](#4-adventure-works-logistics--sales-summary)
 5. [Snitch Sales Dashboard](#5-Snitch-Sales-Dashboard).
-6. [Comprehensive Retail Analytics Dashboard](#6-Comprehensive-Retail-Analytics-Dashboard)
+6. [Comprehensive Retail Analytics Dashboard](#6-Comprehensive-Retail-Analytics-Dashboard-(6-page-Report))
 
 ---
 
