@@ -80,7 +80,8 @@ Welcome to my Power BI portfolio. This repository showcases my ability to transf
 
 ## 6. Comprehensive Retail Analytics Dashboard (6 Page Report)
 
-[Comprehensive Retail Analytics Dashboard]<img width="1372" height="772" alt="Screenshot 2026-09-27 175512" src="https://github.com/user-attachments/assets/bb10104c-b778-4780-9e07-d303d675950b" />
+[Comprehensive Retail Analytics Dashboard]<img width="1373" height="772" alt="Screenshot 2026-09-27 180150" src="https://github.com/user-attachments/assets/baeb3ee3-8e8e-48cc-a466-81789a04d45f" />
+
 
 
 * **Core Focus:** End-to-End ETL, Complex Data Modeling, & Advanced DAX.The Business Problem: Stakeholders lacked visibility into comprehensive sales performance and product profitability. They needed a centralized 6-page report to track $8.25M in total revenue and understand how merchandise return rates (10.05%) were impacting the bottom line.
